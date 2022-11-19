@@ -1,3 +1,7 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Tuff-Madman/Tuff-Madman/blob/main/devcard.svg" width="400" alt="Dev Card"/></a>
+<br>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karcus
 ==============================================================================================================================
 
@@ -20,6 +24,6 @@ Web Developing, Design, SEO
      
 
                
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Tuff-Madman/Tuff-Madman/blob/main/devcard.svg" width="400" alt="Dev Card"/></a>
+
 
 
