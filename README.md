@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Tuff-Madman/Tuff-Madman/blob/main/devcard.svg" width="400" alt="Dev Card"/></a>
+<a href="https://app.daily.dev/risingAp3"><img src="https://api.daily.dev/devcards/e46320eb96c6466a87e58f5eb12ae5c4.png?r=3my" width="400" alt="Karcus with a C's Dev Card"/></a>
 <br>
 
 
