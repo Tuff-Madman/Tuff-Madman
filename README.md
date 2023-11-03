@@ -1,6 +1,7 @@
 <a href="https://app.daily.dev/risingAp3"><img src="https://api.daily.dev/devcards/e46320eb96c6466a87e58f5eb12ae5c4.png?r=3my" width="400" alt="Karcus with a C's Dev Card"/></a>
 <br>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karcus
 ==============================================================================================================================
