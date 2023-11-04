@@ -1,0 +1,5 @@
+# metrics.yml
+plugins:
+  rss:
+    source: https://www.oneusefulthing.org/feed
+    limit: 4
